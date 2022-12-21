@@ -1,0 +1,196 @@
+00:00:00:08 - 00:00:14:07
+Speaker 1
+This is a recording? Yes. And this is recording, too. All right. So from first of all, thank you very much for helping. Can you please say your name for for the recording so it stays there?
+
+00:00:14:20 - 00:00:16:10
+Speaker 2
+Okay. My name is Sam.
+
+00:00:16:15 - 00:00:33:10
+Speaker 1
+And thank you very much for helping me. So, as I said, this is a short battery of questions about how you understand design and what development aspects to be used on my research project for my thesis mustard thesis. So in.
+
+00:00:33:10 - 00:00:33:20
+Speaker 2
+Your.
+
+00:00:34:13 - 00:00:36:26
+Speaker 1
+In your own words, what is a brief?
+
+00:00:37:03 - 00:00:49:13
+Speaker 2
+But I can write it as well. I will stay with brief is like a set of guidelines for a or for a designer that prepares them to create a product.
+
+00:00:49:13 - 00:00:53:08
+Speaker 1
+Perfect, perfect. And in which context you used a brief.
+
+00:00:54:07 - 00:00:58:23
+Speaker 2
+And in the context of reading and digital concept.
+
+00:00:59:11 - 00:00:59:17
+Speaker 1
+In.
+
+00:01:00:01 - 00:01:01:11
+Speaker 2
+An app. Okay.
+
+00:01:02:20 - 00:01:06:10
+Speaker 1
+And what is the most important aspect of a brief from your perspective.
+
+00:01:07:19 - 00:01:18:28
+Speaker 2
+On understanding what are the technical requirements and the requirements from the user point of view? Uh, yeah. And what are the company objectives as well?
+
+00:01:19:04 - 00:01:26:18
+Speaker 1
+Perfect. Perfect. And what is the most important aspect of programing.
+
+00:01:28:03 - 00:01:34:16
+Speaker 2
+That can recognize only 16, that sort of making it work? Thinking back and.
+
+00:01:34:28 - 00:01:35:08
+Speaker 1
+Really.
+
+00:01:35:21 - 00:01:36:08
+Speaker 2
+Not sure.
+
+00:01:36:15 - 00:01:39:25
+Speaker 1
+That that makes complete sense. And what is hard about it?
+
+00:01:40:14 - 00:01:41:07
+Speaker 2
+Most programing.
+
+00:01:41:22 - 00:01:42:07
+Speaker 1
+Companies.
+
+00:01:44:10 - 00:01:53:28
+Speaker 2
+The fact that it doesn't work on on one computer and it does on the other or the fact that it doesn't work in one editorial. Okay. And it does. I'm doing.
+
+00:01:54:09 - 00:01:56:19
+Speaker 1
+Perfect. And what is easy about it?
+
+00:01:57:20 - 00:02:12:20
+Speaker 2
+Oh, also on the introduction, talking about the gunshots. I'm sorry. That is all very logical. Yeah. And if you know the rule, it's going to work. So the fact that it doesn't work for me sometimes is probably because I don't know the rule.
+
+00:02:13:06 - 00:02:24:26
+Speaker 1
+Perfect, perfect, perfect. And in your own words, how would you describe the process of designing a website? First, what will be the first step? Second step?
+
+00:02:26:08 - 00:02:59:16
+Speaker 2
+And the first step would be understanding the user pain points. And what's the problem of then defining the problem and then identifying what kind of features should be on the website. What the website would be solving for the user. Um, then testing it with the user and iterating based on what you learned during the testing. So just.
+
+00:03:00:00 - 00:03:11:07
+Speaker 1
+Perfect. Perfect. And then so would you consider yourself a problem or a non problem? A program that how would you describe yourself professionally.
+
+00:03:12:16 - 00:03:16:29
+Speaker 2
+Oh, these parts designer and branding assistant right now.
+
+00:03:17:10 - 00:03:17:25
+Speaker 1
+Perfect.
+
+00:03:18:08 - 00:03:18:17
+Speaker 2
+Use.
+
+00:03:18:21 - 00:03:23:17
+Speaker 1
+But do you know what is front end work in, um.
+
+00:03:24:14 - 00:03:26:01
+Speaker 2
+In programing context.
+
+00:03:26:08 - 00:03:31:24
+Speaker 1
+In the context that you get. And how do you understand that no matter the context.
+
+00:03:34:20 - 00:03:44:23
+Speaker 2
+It's something that the user can see. So programing that you do and the user sees that or I don't know, design that it's visible for the user. That's how I see this.
+
+00:03:45:05 - 00:03:47:21
+Speaker 1
+And do you know any tools for doing Frontend?
+
+00:03:48:20 - 00:04:06:13
+Speaker 2
+Yeah. Starting from your presentation inside the programing language is it's usually what's Python. Yeah. No, Python is usually the buck ins. Right. Yeah. Yeah. Maybe cc or the other ones.
+
+00:04:06:17 - 00:04:09:13
+Speaker 1
+Yeah. So what is back and then.
+
+00:04:10:17 - 00:04:30:24
+Speaker 2
+Yeah. And it starts under the face but I would be just guessing here, it's about what is not visible for the user. So like I would go see maybe introducing the data into the system so that the API can read it or.
+
+00:04:31:20 - 00:04:34:28
+Speaker 1
+Okay. Perfect. And any book into.
+
+00:04:36:18 - 00:04:38:25
+Speaker 2
+A python, as I said about I don't know any other.
+
+00:04:38:27 - 00:04:44:25
+Speaker 1
+Is perfectly fine because what do we know? The difference between a website and an app.
+
+00:04:45:25 - 00:04:56:23
+Speaker 2
+After all for me, because basically what I want you to think that you don't have you can somehow have said we did a mobile app or.
+
+00:04:56:27 - 00:05:01:11
+Speaker 1
+Yeah, I never use your phone, for example, but I do an app for the computer.
+
+00:05:02:00 - 00:05:15:15
+Speaker 2
+I don't want to go there during this, but we kind of tried. Yeah. Oh my God, I forgot. But to me, to the point that if you stop the recording I was probably think about is a little bit it's.
+
+00:05:16:00 - 00:05:25:27
+Speaker 1
+It's perfectly fine. We will have only three more questions or if we want to stop, that's perfectly fine. But the the last three one questions are what's bound to.
+
+00:05:26:12 - 00:05:29:05
+Speaker 2
+Be programing language.
+
+00:05:29:15 - 00:05:30:28
+Speaker 1
+Yeah, it's HTML.
+
+00:05:33:10 - 00:05:34:15
+Speaker 2
+Also programing language.
+
+00:05:34:26 - 00:05:35:17
+Speaker 1
+And CCIS.
+
+00:05:36:25 - 00:05:38:00
+Speaker 2
+Also programing language.
+
+00:05:38:26 - 00:05:45:03
+Speaker 1
+Super duper. Now I'm going to stop the recording. Mm. Tell me, what are the difference between a web app and.
+
